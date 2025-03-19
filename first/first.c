@@ -9,5 +9,5 @@ int main(void) /*一个简单的C程序*/
   printf("My favorite number is %d because it is first.\n", num); /*使用printf()函数*/
   
   getchar();/*等待用户按下一个键*/
-  return 0;/*给调用提供方返回一个数（暂时看做结束main函数的要求）*/
+  return 0;/*给调用提供方返回一个数（暂时看作结束main函数的要求）*/
 }
